@@ -1,0 +1,4 @@
+template.php- fuel/app/views/
+allstatus.php- fuel/app/views/federation/
+hello.js- public_html/ct310/assets/js/
+style.css- public_html/ct310/assets/css/
