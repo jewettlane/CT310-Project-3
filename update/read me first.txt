@@ -1,0 +1,7 @@
+att.js- public_html/ct310/assets/js/
+federation.php - fuel/app/classes/controller/
+allattraction.php- fuel/app/views/federation/
+viewAtt.php- fuel/app/views/federation/
+template.php- fuel/app/views/ or any place it is required
+
+my viewAtt.php has php way of doing ajax call.
